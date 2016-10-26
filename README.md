@@ -1,3 +1,5 @@
+Just forked - no changes yet!
+
 # clipper-java
 A Polygon clipper for JavaFX
 
